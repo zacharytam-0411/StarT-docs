@@ -10,7 +10,9 @@ Hi! I'm stellaurora and I'm a computer science student. I'm interested in system
 
 ## KillLaAqua - Developer
 
-## UltraPuPower - Developer
+## UltraPuPower1 - Developer
+
+Hey there, I am UltraPuPower. I hope to study computer science at university soon. I like programming (what a surprise), reading and minecraft. I enjoy learning about anything related to science, and enjoy maths. If you have any questions, ask away in discord.
 
 ## Caerglad - Developer
 
