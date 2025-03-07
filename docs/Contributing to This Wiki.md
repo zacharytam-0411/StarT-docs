@@ -1,5 +1,12 @@
 # Contributing to this Wiki
 
+## Before contributing
+This is the offical and open-source wiki for the modpack Star Technology. Anyone can contribute to it, but, before you do, you need to know the ground rules:
+
+1. Don't make troll submissions.
+2. Don't make a new page in the wiki without asking the devs for permission.
+3. Don't contribute anything that is the intelectual property of another party(such as images, diagrams, etc) without permission from the author of it.
+
 ## Prerequisites
 - [Git](https://git-scm.com/downloads) - Version Control System that will allow you to push the changes you make to the GitHub repository.
 - [Visual Studio Code](https://code.visualstudio.com/download) - Code Editor integrated with Git with plenty of extensions to help you.
@@ -36,5 +43,6 @@
 ```
 mkdocs serve
 ```
-7. You can now make changes and it'll automatically update at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-8. When you want to stop the app, go in the terminal and run Ctrl+C
+7. You can now make changes and it'll automatically update at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+8. When you want to stop the app, go in the terminal and run Ctrl+C.
+9. Commit your changes and open a pull request to the main repository.
