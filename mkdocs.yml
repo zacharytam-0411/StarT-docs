@@ -1,30 +1,38 @@
 site_name: Star Technology Wiki
-site_url: https://sitename.example
+site_url: https://github.com/trulyno/StarT-docs
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  # logo: assets/logo.png
-  # favicon: assets/favicon.ico
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy 
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: deep purple
+      accent: amber
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: deep purple
+      accent: light blue
 
 markdown_extensions:
   - attr_list
