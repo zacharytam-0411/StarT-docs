@@ -8,15 +8,31 @@
 
 ## Preparing the workspace
 
-1. Fork the repository
-2. Open Visual Studio Code
-3. Clone the forked repository
-4. Open new terminal
-5. Run command:
-```
-.\venv\Scripts\activate
-```
-6. Run command:
+1. Fork the [repository](https://github.com/trulyno/StarT-docs).
+2. Open Visual Studio Code.
+3. From the *Welcome* page, click on **Clone Git repository**, select **Clone from GitHub**, and select **YOUR_NAME/StarT-docs**.
+4. Open new terminal from toolbar.
+5. Run command the following commands:
+
+    To create the enviroment:
+    ```
+    python -m venv venv
+    ```
+    To activate the enviroment:
+     On Windows:
+    ```
+    .\venv\Scripts\activate
+    ``` 
+    On Mac:
+    ```
+    source venv/bin/activate
+    ```
+    To install [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/).
+    ```
+    pip install mkdocs-material
+    ```
+
+6. Run command to launch the app:
 ```
 mkdocs serve
 ```
