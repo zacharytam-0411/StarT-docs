@@ -7,6 +7,9 @@ This is the offical and open-source wiki for the modpack Star Technology. Anyone
 2. Don't make a new page in the wiki without asking the devs for permission.
 3. Don't contribute anything that is the intelectual property of another party(such as images, diagrams, etc) without permission from the author of it.
 
+## Useful references
+- [What you can add to the wiki](https://squidfunk.github.io/mkdocs-material/reference/)
+
 ## Prerequisites
 - [Git](https://git-scm.com/downloads) - Version Control System that will allow you to push the changes you make to the GitHub repository.
 - [Visual Studio Code](https://code.visualstudio.com/download) - Code Editor integrated with Git with plenty of extensions to help you.
