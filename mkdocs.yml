@@ -1,5 +1,7 @@
 site_name: Star Technology Wiki
 site_url: https://github.com/trulyno/StarT-docs
+repo_name: Star Technology
+repo_url: https://github.com/trulyno/star-technology
 theme:
   name: material
   font:
