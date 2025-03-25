@@ -49,4 +49,11 @@ Step **4** : Chemically react **Ethylene** and **Oxygen/Air** inside a **LV Chem
 
 Polyethylene is used in various assembling recipes such as SMD components.
 
-![Image title](Images/recipe_pe.png)
+![Example recipe of Polyethylene](Images/assembler_inductor.png)
+
+Polyethylene can also be fluid solidified into Polyethylene sheets for further crafting uses.
+
+![How to make polyethylene sheets](Images/fluid_solidifier_solidify_polyethylene_to_plate.png)
+
+![Machine hulls](Images/shaped_ev_machine_hull.png)
+![Machine hulls(2)](Images/shaped_hv_machine_hull.png)s
