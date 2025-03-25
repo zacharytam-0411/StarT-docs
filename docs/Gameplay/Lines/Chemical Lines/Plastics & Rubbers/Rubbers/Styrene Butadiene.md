@@ -8,6 +8,7 @@
 ### How to make Styrene
 
 Step **1**: Distill Oil in a Distillation Tower **(MV)**
+
 ![oil distillation](Images3/distillation_tower_distill_light_oil.png)
 
 Step **2**: Desulfurize Sulfuric Naphtha with Hydrogen to get Naphtha
