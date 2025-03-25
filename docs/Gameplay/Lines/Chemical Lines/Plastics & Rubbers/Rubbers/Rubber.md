@@ -67,6 +67,7 @@ Liquid rubber will be used instead of Rubber Plates to coat cables mid-game.
 Rubber can also be fluid solidified into ingots and then **extruded** in an **MV Extruder** into **Rubber Rings** for other crafting uses such as different tiers of pumps.
 
 ![rubber ingot](Images1/fluid_solidifier_solidify_rubber_to_ingot.png)
+
 ![rubber ring](Images1/extruder_extrude_rubber_ingot_to_ring.png)
 
 **LV Pump**

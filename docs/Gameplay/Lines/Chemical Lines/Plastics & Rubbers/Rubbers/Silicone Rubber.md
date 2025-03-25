@@ -21,20 +21,24 @@ Step **2**: Chemically React Polydimethylsiloxane Dust with Sulfur Dust to make 
 
 ## Uses of Sillicone Rubber
 
-Coating cables on its own
+**Coating cables on its own**
 
 ![coating cables](Images2/assembler_cover_cupronickel_wire_gt_quadruple_silicone.png)
 
-Coating cables with other foil
+**Coating cables with other foil**
 
 ![coating cables with foil](Images2/assembler_cover_zirconium_selenide_diiodide_wire_gt_single_silicone.png)
 
-Making into foil for assembling recipes (SMD Capactors and FAL tape)
+**Making into foil for assembling recipes**
 
 ![turning into ingot](Images2/fluid_solidifier_solidify_silicone_rubber_to_ingot.png)
 
 ![turning into foil](Images2/bender_bend_silicone_rubber_ingot_to_foil.png)
 
+**FAL-84 Duct Tape**
+
 ![assembling recipes](Images2/assembler_duct_tape_silicone_rubber.png)
+
+**SMD Capacitor**
 
 ![assembling recipes2](Images2/assembler_smd_capacitor_silicone.png)
