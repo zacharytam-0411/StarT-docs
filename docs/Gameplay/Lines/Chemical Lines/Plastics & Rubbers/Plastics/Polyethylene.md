@@ -30,6 +30,8 @@ Step **2b** : Distill **fermented biomass** inside a **MV Distillery** on Circui
 
 ![How to make ethanol(2)](Images1/distillery_distill_fermented_biomass_to_ethanol.png)
 
+***Note that ethanol is also obtainable through Create Basins.***
+
 **After obtaining ethanol, the way of making polyethylene is basically the same.**
 
 Step 3 : Chemically react **Ethanol** and **Sulfuric Acid** inside a **MV Chemical Reactor** to make Ethylene. (Minimum Energy Tier required : **MV**)
