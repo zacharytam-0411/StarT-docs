@@ -11,7 +11,7 @@ Step **1a**: Input biochaff and water inside of a **Pyrolyse Oven** on Circuit *
 
 ![How to make biomass](Images1/pyrolyse_oven_bio_chaff_to_biomass.png)
 
-***Step 1.5: You can also use the LV Brewery to make Biomass from plants and water.*** 
+***Step 1.5: You can also use the <LV>LV Brewery</LV> to make Biomass from plants and water.*** 
 
 ![How to make biomass](Images1/brewery_biomass_from_glow_berries.png)
 
