@@ -20,7 +20,7 @@
 
 ![cltfe2](PTFE_img/large_chemical_reactor_tetrafluoroethylene_from_chloroform.png)
 
-**Step 2: Chemically react Hydrofluoric Acid, Methane and Chlorine to make Tetrafluoroethylene. (*Cir 24* IV LCR)**
+**Step 2: Chemically react Hydrofluoric Acid, Methane and Chlorine to make Tetrafluoroethylene. <IV>(*Cir 24* IV LCR)</IV>**
 
 ![lcrptfe](PTFE_img/large_chemical_reactor_tetrafluoroethylene_from_methane.png) 
 
@@ -42,7 +42,7 @@ Step 3b: You can also chemically react **Tetrafluoroethylene**, **Titanium Tetra
 
 ### Option 2 
 
-***Use the Chemical Plant to make Polytetrafluoroethylene from Fluorine and Carbon Dust. (Chem Plant LuV)***
+***Use the Chemical Plant to make Polytetrafluoroethylene from Fluorine and Carbon Dust. <Luv>(Chem Plant LuV)</Luv>***
 
 ![cpptfe](PTFE_img/chemical_plant_ptfe.png)
 
@@ -52,11 +52,11 @@ Step 3b: You can also chemically react **Tetrafluoroethylene**, **Titanium Tetra
 
 ![ptfec](PTFE_img/assembler_casing_ptfe_inert.png)
 
-**Making IV Hatches/Busses**
+**Making <IV>IV</IV> Hatches/Busses**
 
 ![ivh](PTFE_img/assembler_item_import_bus_iv_polytetrafluoroethylene.png)
 
-**Making Petri Dishes**
+**Making Petri Dishes <HV>(HV Fluid Solidifier)</HV>**
 
 ![pdptfe](PTFE_img/fluid_solidifier_petri_dish_ptfe.png)
 
@@ -76,11 +76,11 @@ Step 3b: You can also chemically react **Tetrafluoroethylene**, **Titanium Tetra
 
 **Making Machine Hulls**
 
-**IV Machine Hull**
+**<iv>IV</iv> Machine Hull**
 
 ![ivhulls](PTFE_img/shaped_iv_machine_hull.png)
 
-**LuV Machine Hull**
+**<luv>LuV</luv> Machine Hull**
 
 ![luvhulls](PTFE_img/shaped_luv_machine_hull.png)
 
