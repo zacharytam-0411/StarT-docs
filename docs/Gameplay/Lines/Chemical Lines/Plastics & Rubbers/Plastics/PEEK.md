@@ -1,5 +1,7 @@
 # PEEK (Polyether Ether Ketone)
 
+PEEK is a type of plastic that is widely used late-game. In reality, it is a colourless organic thermoplastic polymer in the polyaryletherketone (PAEK) family, used in engineering applications. 
+
 ## How to Make PEEK
 
 **PEEK is mainly made from *4,4-Difluorobenzophenone Dust* and *Disodium Salt of Hydroquione dust***
@@ -66,7 +68,9 @@ Step **3**: Obtain **Disodium Salt of Hydroquione dust** by chemically reacting 
 
 **Used as fluid in assembly lines**
 
-![upeek3](Images3/assembly_line_draconic_processor_mainframe.png) *Uncraftable at Epsilon*
+![upeek3](Images3/assembly_line_draconic_processor_mainframe.png) 
+
+**Uncraftable at Epsilon*
 
 **Used in UHV component crafting**
 
@@ -78,10 +82,26 @@ Step **3**: Obtain **Disodium Salt of Hydroquione dust** by chemically reacting 
 
 ![upeek5](Images3/fluid_solidifier_solidify_polyether_ether_ketone_to_ingot.png)
 
-**Bend the ingots into foil** **(Cir 10)**
+**Bend the ingots into foil (Cir 10)**
 
 ![upeek6](Images3/bender_bend_polyether_ether_ketone_ingot_to_foil.png)
 
 **Used as a crafting item in assembly line recipes**
  
-![upeek7](Images3/assembly_line_draconic_processor_mainframe.png) *Uncraftable at Epsilon*
+![upeek7](Images3/assembly_line_draconic_processor_mainframe.png)
+
+**Uncraftable at Epsilon*
+
+### Uses of PEEK plate
+
+**Fluid solifify PEEK into plate**
+
+![upeek](Images3/fluid_solidifier_solidify_polyether_ether_ketone_to_plate.png)
+
+**Used to craft UHV hulls**
+
+![upeek8](Images3/kjs_gtceu_uhv_machine_hull.png)
+
+**Used to make plastic circuit boards**
+
+![upeek9](Images3/chemical_reactor_plastic_boards_peek.png)
