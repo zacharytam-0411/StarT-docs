@@ -43,6 +43,7 @@ Step 3 : Chemically react **Ethanol** and **Sulfuric Acid** inside a <MV>**MV Ch
 Step **4** : Chemically react **Ethylene** and **Oxygen/Air** inside a <LV>**LV Chemical Reactor**</LV> to make Polyethylene. (Minimum Energy Tier required : <LV>**LV**</LV>)
 
 ![How to make polyethylene](PE_img/chemical_reactor_polyethylene_from_air.png)
+
 ![How to make polyethylene(2)](PE_img/chemical_reactor_polyethylene_from_oxygen.png)
 
 
@@ -59,10 +60,10 @@ Polyethylene can also be fluid solidified into Polyethylene sheets for further c
 
 ![How to make polyethylene sheets](PE_img/fluid_solidifier_solidify_polyethylene_to_plate.png)
 
-**EV Machine Hull**
+**<ev>EV</ev> Machine Hull**
 
 ![Machine hulls](PE_img/shaped_ev_machine_hull.png)
 
-**HV Machine Hull**
+**<hv>HV</hv> Machine Hull**
 
 ![Machine hulls(2)](PE_img/shaped_hv_machine_hull.png)
