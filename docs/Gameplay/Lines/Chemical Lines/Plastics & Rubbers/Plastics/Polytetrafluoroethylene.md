@@ -1,4 +1,4 @@
-# Polytetrafluoroethylene
+# Polytetrafluoroethylene (PTFE)
 
 ## How to make PTFE
 
