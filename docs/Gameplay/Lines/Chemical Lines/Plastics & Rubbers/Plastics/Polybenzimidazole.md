@@ -108,6 +108,6 @@ Diphenyl Isophthalate = Phthalic Acid + Phenol + Sulfuric Acid (**IV LCR**)
 
 ![pbi4](PBI_img/fluid_solidifier_solidify_polybenzimidazole_to_plate.png)
 
-**ZPM Machine Hul**
+**ZPM Machine Hull**
 
 ![pbi5](PBI_img/shaped_zpm_machine_hull.png)
