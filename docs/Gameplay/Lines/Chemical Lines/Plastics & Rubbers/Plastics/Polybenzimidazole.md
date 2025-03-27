@@ -9,69 +9,69 @@ It is also used in making Plastic Circuit Boards.
 
 *Chemically React Diaminobenzidine and Diphenyl Isophthalate to obtain Polybenzimidazole.*
 
-Polybenzimidazole = Diaminobenzidine + Diphenyl Isophthalate (**IV LCR**)
+Polybenzimidazole = Diaminobenzidine + Diphenyl Isophthalate <iv>(**IV LCR**)</iv>
 
-![pbi](Images2/large_chemical_reactor_polybenzimidazole.png)
+![pbi](PBI_img/large_chemical_reactor_polybenzimidazole.png)
 
 
 ### How to make Diaminobenzidine
 
-Step **1**: Mix Nitric Acid **(HV LCR)** and Sulfuric Acid to make Nitration Mixture.
+Step **1**: Mix Nitric Acid <hv>**(HV LCR)**</hv> and Sulfuric Acid to make Nitration Mixture.
 
 
-Nitric Acid = Nitrogen + Oxygen + Hydrogen **(LCR Cir 24)**
+Nitric Acid = Nitrogen + Oxygen + Hydrogen <hv>**(HV LCR Cir 24)**</hv>
 
-![nitric acid](Images2/large_chemical_reactor_nitric_acid_from_elements.png)
+![nitric acid](PBI_img/large_chemical_reactor_nitric_acid_from_elements.png)
 
 Nitration Mixture = Nitric Acid + Sulfuric Acid **(Mixer)**
 
-![nitration mixture](Images2/mixer_nitration_mixture.png)
+![nitration mixture](PBI_img/mixer_nitration_mixture.png)
 
-Step **2**: Chemically react Chlorobenzene with **Circuit 1** and Nitration Mixture to make Nitrochlorobenzene. **(HV LCR required)**
+Step **2**: Chemically react Chlorobenzene with **Circuit 1** and Nitration Mixture to make Nitrochlorobenzene. <hv>**(HV LCR required)**</hv>
 
 Chlorobenzine : Chlorine Gas + Benzene **(LCR Cir 1)** 
 
-![chlorobenzene](Images2/large_chemical_reactor_chlorobenzene.png)
+![chlorobenzene](PBI_img/large_chemical_reactor_chlorobenzene.png)
 
-Nitrochlorobenzene : Chlorobenzine + Nitration Mixture **(HV LCR required)**
+Nitrochlorobenzene : Chlorobenzine + Nitration Mixture <hv>**(HV LCR required)**</hv>
 
-![nitrochlorobenzene](Images2/large_chemical_reactor_nitrochlorobenzene.png)
+![nitrochlorobenzene](PBI_img/large_chemical_reactor_nitrochlorobenzene.png)
 
 Step **3** : Chemically react Nitrochlorobenzene, Hydrogen and a tiny pile of copper dust to obtain Dichlorobenzidine.
 
-Dichlorobenzidine = Nitrochlorobenzene + Hydrogen + Tiny pile of Copper Dust **(EV LCR required)**
+Dichlorobenzidine = Nitrochlorobenzene + Hydrogen + Tiny pile of Copper Dust <ev>**(EV LCR required)**</ev>
 
-![dichlorobenzidine](Images2/large_chemical_reactor_dichlorobenzidine_9.png)
+![dichlorobenzidine](PBI_img/large_chemical_reactor_dichlorobenzidine_9.png)
 
 Step **4** : Chemically react Dichlorobenzidine, Ammonia and Zinc Dust (Not consumed) to obtain Diaminobenzidine.
 
-Ammonia = Hydrogen + Nitrogen **(HV LCR Cir 1)**
+Ammonia = Hydrogen + Nitrogen <hv>**(HV LCR Cir 1)**</hv>
 
-![ammonia](Images2/large_chemical_reactor_ammonia_from_elements.png)
+![ammonia](PBI_img/large_chemical_reactor_ammonia_from_elements.png)
 
-Diaminobenzidine = Dichlorobenzidine + Ammonia + Zinc dust (NC) **(IV LCR required)**
+Diaminobenzidine = Dichlorobenzidine + Ammonia + Zinc dust (NC) <iv>**(IV LCR required)**</iv>
 
-![diaminobenzidine](Images2/large_chemical_reactor_diaminobenzidine.png)
+![diaminobenzidine](PBI_img/large_chemical_reactor_diaminobenzidine.png)
 
 ### How to make Diphenyl Isophthalate
 
 Step **1**: Chemically React Potassium Dichromate, Dimethylbenzene and Oxygen to obtain Phthalic Acid.
 
-Chromium Trioxide = Chromium Dust + Oxygen **(MV LCR)**
+Chromium Trioxide = Chromium Dust + Oxygen <MV>**(MV LCR)**</MV>
 
-![chromium trioxide](Images2/large_chemical_reactor_chromium_trioxide.png)
+![chromium trioxide](PBI_img/large_chemical_reactor_chromium_trioxide.png)
 
-Potassium Dichromate = Chromium Trioxide + Saltpeter Dust **(HV LCR)**
+Potassium Dichromate = Chromium Trioxide + Saltpeter Dust <hV>**(HV LCR)**</hV>
 
-![potassium dichromate](Images2/large_chemical_reactor_potassium_dichromate.png)
+![potassium dichromate](PBI_img/large_chemical_reactor_potassium_dichromate.png)
 
-Dimethylbenzene = Methane + Benzene **(Cir 1 MV LCR)**
+Dimethylbenzene = Methane + Benzene <MV>**(Cir 1 MV LCR)**</MV>
 
-![dimethylbenzene](Images2/large_chemical_reactor_dimethylbenzene.png)
+![dimethylbenzene](PBI_img/large_chemical_reactor_dimethylbenzene.png)
 
-Phthalic Acid = Potassium Dichromate + Dimethylbenzene + Oxygen **(EV LCR)**
+Phthalic Acid = Potassium Dichromate + Dimethylbenzene + Oxygen <EV>**(EV LCR)**</EV>
 
-![phtalic acid](Images2/large_chemical_reactor_phthalic_acid_from_dimethylbenzene_9.png)
+![phtalic acid](PBI_img/large_chemical_reactor_phthalic_acid_from_dimethylbenzene_9.png)
 
 Step **2**: Obtain Phenol
 
@@ -81,31 +81,33 @@ There are 2 ways of obtaining phenol through the **LCR**:
 
 1.Benzene + Chlorine + Water = Phenol + Hydrochloric Acid + Diluted HCl (**LCR Cir 24**)
 
-![phenol](Images2/large_chemical_reactor_phenol_hcl_shortcut.png)
+![phenol](PBI_img/large_chemical_reactor_phenol_hcl_shortcut.png)
 
 2.Benzene + Chlorine + Sodium Hydroxide = Phenol + HCl + Salt (**LCR Cir 24**)
 
-![phenol2](Images2/large_chemical_reactor_phenol_salt_shortcut.png)
+![phenol2](PBI_img/large_chemical_reactor_phenol_salt_shortcut.png)
 
 Step **3**: Obtain Diphenyl Isophthalate
 
-Diphenyl Isophthalate = Phthalic Acid + Phenol + Sulfuric Acid (**IV LCR**)
+Diphenyl Isophthalate = Phthalic Acid + Phenol + Sulfuric Acid <IV>(**IV LCR**)</IV>
 
-![dip](Images2/large_chemical_reactor_diphenyl_isophtalate.png)
+![dip](PBI_img/large_chemical_reactor_diphenyl_isophtalate.png)
 
 ## Uses of Polybenzimidazole
 
 **Making Plastic Circuit Boards**
 
-![pbi2](Images2/large_chemical_reactor_plastic_board_pbi.png)
+![pbi2](PBI_img/large_chemical_reactor_plastic_board_pbi.png)
 
 
 **Making Input/Output Busses/Hatches**
 
-![pbi3](Images2/assembler_item_export_bus_mv_polybenzimidazole.png)
+![pbi3](PBI_img/assembler_item_export_bus_mv_polybenzimidazole.png)
 
 **Turning into sheets for machine hulls**
 
-![pbi4](Images2/fluid_solidifier_solidify_polybenzimidazole_to_plate.png)
+![pbi4](PBI_img/fluid_solidifier_solidify_polybenzimidazole_to_plate.png)
 
-![pbi5](Images2/shaped_zpm_machine_hull.png)
+**<Zpm>ZPM Machine Hull</zpm>**
+
+![pbi5](PBI_img/shaped_zpm_machine_hull.png)
