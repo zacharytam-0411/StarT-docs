@@ -1,5 +1,5 @@
 # Polytetrafluoroethylene (PTFE)
-
+c
 ## How to make PTFE
 
 ### Option 1
@@ -30,9 +30,9 @@ Step 3a: Chemically react **Tetrafluoroethylene** and **Air/Oxygen** to get **Li
 
 ![lptfe2](PTFE_img/large_chemical_reactor_ptfe_from_oxygen.png)
 
-Step 3b: You can also chemically react **Tetrafluoroethylene**, **Titanium Tetrachlorider** and **Air/Oxygen** to get *more* **Liquid PTFE**. **(Cir 1)**
+Step 3b: You can also chemically react **Tetrafluoroethylene**, [Titanium Tetrachloride](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Titanium Tetrachloride) and **Air/Oxygen** to get *more* **Liquid PTFE**. **(Cir 1)**
 
-***Rutile Dust + Carbon Dust + Chlorine = Carbon Monoxide + Titanium Tetrachloride***
+***Rutile Dust + Carbon Dust + Chlorine = Carbon Monoxide + [Titanium Tetrachloride](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Titanium Tetrachloride)***
 
 ![ttc](PTFE_img/large_chemical_reactor_titanium_tetrachloride.png)
 

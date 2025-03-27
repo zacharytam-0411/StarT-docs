@@ -16,14 +16,9 @@ Polybenzimidazole = Diaminobenzidine + Diphenyl Isophthalate <iv>(**IV LCR**)</i
 
 ### How to make Diaminobenzidine
 
-Step **1**: Mix Nitric Acid <hv>**(HV LCR)**</hv> and Sulfuric Acid to make Nitration Mixture.
+Step **1**: Mix [Nitric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Nitric Acid) <hv>**(HV LCR)** </hv> and [Sulfuric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Sulfuric Acid) to make Nitration Mixture.
 
-
-Nitric Acid = Nitrogen + Oxygen + Hydrogen <hv>**(HV LCR Cir 24)**</hv>
-
-![nitric acid](PBI_img/large_chemical_reactor_nitric_acid_from_elements.png)
-
-Nitration Mixture = Nitric Acid + Sulfuric Acid **(Mixer)**
+Nitration Mixture = [Nitric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Nitric Acid) + [Sulfuric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Sulfuric Acid) </sulfuric> **(Mixer)**
 
 ![nitration mixture](PBI_img/mixer_nitration_mixture.png)
 

@@ -20,7 +20,7 @@ Step **2a**: Chemically React *Vinyl Chloride* and *Air/Oxygen* to make Vinyl Ch
 
 ![vco](PVC_img/large_chemical_reactor_polyvinyl_chloride_from_oxygen.png)
 
-Step **2b**: Chemically React *Vinyl Chloride* , **Titanium Tetrachloride** and *Air/Oxygen* to make Vinyl Chloride. **(LCR Cir 2)**
+Step **2b**: Chemically React *Vinyl Chloride* , [Titanium Tetrachloride](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Titanium Tetrachloride) and *Air/Oxygen* to make Vinyl Chloride. **(LCR Cir 2)**
 
 ***With Air***
 
@@ -59,3 +59,5 @@ Step **2b**: Chemically React *Vinyl Chloride* , **Titanium Tetrachloride** and 
 **Used to make Hazmat Suits**
 
 ![hzs](PVC_img/assembler_hazmat_leggings.png)
+
+
