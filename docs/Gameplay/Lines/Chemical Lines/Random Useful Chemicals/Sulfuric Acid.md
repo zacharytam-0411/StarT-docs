@@ -12,10 +12,9 @@
 
 #### Option 3: Combine Water, Oxygen and Sulfur in different steps.
 
-**Step 1: Combine Sulfur and Oxygen in an LCR with Cir 2**
+**Step 1: Combine Sulfur and Oxygen (LCR Cir 2)**
 
 ![](H2SO4_img/large_chemical_reactor_sulfur_dioxide_from_sulfur.png)
-
 
 **Step 2: Combine Sulfur Dioxide with Oxygen**
 

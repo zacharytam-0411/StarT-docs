@@ -74,7 +74,7 @@ Step **2**: Obtain Phenol
 
 There are 2 ways of obtaining phenol through the **LCR**:
 
-1.Benzene + Chlorine + Water = Phenol + Hydrochloric Acid + Diluted HCl (**LCR Cir 24**)
+1.Benzene + Chlorine + Water = Phenol +  [Hydrochloric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Hydrochloric Acid)+ Diluted HCl (**LCR Cir 24**)
 
 ![phenol](PBI_img/large_chemical_reactor_phenol_hcl_shortcut.png)
 
@@ -106,3 +106,7 @@ Diphenyl Isophthalate = Phthalic Acid + Phenol + Sulfuric Acid <IV>(**IV LCR**)<
 **<Zpm>ZPM Machine Hull</zpm>**
 
 ![pbi5](PBI_img/shaped_zpm_machine_hull.png)
+
+**<uv>UV Machine Hull</uv>**
+
+![pbi6](PBI_img/shaped_uv_machine_hull.png)
