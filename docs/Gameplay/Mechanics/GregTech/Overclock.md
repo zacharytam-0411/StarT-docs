@@ -10,10 +10,12 @@ For Perfect OC, instead of 2x speed for 4x EU/t, its 4x speed for 4x EU/t. Perfe
 *Some machines have subtick parallel, where overclocks are converted into parallel instead.
 
 ## Tier Overclock (TOC)
-This is probably the most “attribute-esque” of the overclock types. Most multiblocks have the ability to accept 2 energy hatches. This allows it to run recipes of 1 tier higher than the tier of the hatches. So 2 LV hatches allow MV recipes, 2 MV hatches allow HV recipes, etc. This happens because each hatch is 2 amps, and 4 amps of one tier is equivalent to 1 amp of power at 1 tier higher. This only happens if the machine allows 2 energy hatches, so a 4a hatch is not sufficient to tier overclock. Multiblocks can only TOC once, the rest will be SOC.
+Most multiblocks have the ability to accept 2 energy hatches. If the hatches are the same tier, it will run one tier higher than the tier of the hatches. So 2 <LV>LV hatches</LV> allow <MV>MV recipes</MV>, 2 <MV>MV hatches</MV> allow <HV>HV recipes</HV>, etc. This happens because each hatch has a capacity of 2 amps, and 4 amps of one tier is equivalent to 1 amp of power at 1 tier higher. This only happens if the machine allows 2 energy hatches, so a 4a hatch is not sufficient to tier overclock. Multiblocks can only TOC once, the rest will be SOC.
 
 ## Speed Overclock (SOC)
 SOC only really exists as a distinction from TOC. Putting a lone 4a or 16a hatch will allow it to overclock once (or twice for the 16a). But this overclocking doesnt let it run any higher tier recipes. It only runs them faster. How much it speeds up is dependent on if the overclock is ROC or POC. You can put a 16a and a 2a/4a/16a hatch on any multiblock that accepts two hatches to get 1 TOC and an additional SOC.
 
 ## Fusion Overclock (FOC)
-That's right! Fusion has its own weird type of overclock for some reason. Increasing the tier or amperage of energy hatches doesn’t make it any faster, but upgrading the reactor does. Every reactor tier above its base tier is 2x speed for 2x energy consumption.
+Increasing the tier or amperage of energy hatches in a fusion reactor doesn’t make it any faster, but upgrading the reactor does. Every reactor tier above its base tier is 2x speed for 2x energy consumption.
+
+[Guide By driftbluestone](https://discord.com/channels/1177211394039484477/1339737084029698119)
