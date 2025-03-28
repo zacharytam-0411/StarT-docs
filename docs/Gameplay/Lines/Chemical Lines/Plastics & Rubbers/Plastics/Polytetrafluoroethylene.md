@@ -1,38 +1,22 @@
 # Polytetrafluoroethylene (PTFE)
-
+c
 ## How to make PTFE
 
 ### Option 1
 
-**Step 1: Chemically react Hydrogen and Fluorine to make Hydrofluoric Acid.**
-
-**Hydrofluoric Acid = Hydrogen + Fluorine (LCR)**
-
-![hf](PTFE_img/large_chemical_reactor_hydrofluoric_acid_from_elements.png)
-
-***Note that you can also make Tetrafluoroethylene wit Chloroform and Chlorine.***
-
-**Recipe for Chloroform**
-
-![cltfe](PTFE_img/large_chemical_reactor_chloroform.png)
-
-**Recipe for Tetrafluoroethylene from Chloroform**
-
-![cltfe2](PTFE_img/large_chemical_reactor_tetrafluoroethylene_from_chloroform.png)
-
-**Step 2: Chemically react Hydrofluoric Acid, Methane and Chlorine to make Tetrafluoroethylene. <IV>(*Cir 24* IV LCR)</IV>**
+**Step 1: Chemically react [Hydrofluoric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Hydrofluoric Acid), Methane and Chlorine to make Tetrafluoroethylene. <IV>(*Cir 24* IV LCR)</IV>**
 
 ![lcrptfe](PTFE_img/large_chemical_reactor_tetrafluoroethylene_from_methane.png) 
 
-Step 3a: Chemically react **Tetrafluoroethylene** and **Air/Oxygen** to get **Liquid PTFE**. **(Cir 1)**
+Step 2a: Chemically react **Tetrafluoroethylene** and **Air/Oxygen** to get **Liquid PTFE**. **(Cir 1)**
 
 ![lptfe](PTFE_img/large_chemical_reactor_ptfe_from_air.png)
 
 ![lptfe2](PTFE_img/large_chemical_reactor_ptfe_from_oxygen.png)
 
-Step 3b: You can also chemically react **Tetrafluoroethylene**, **Titanium Tetrachlorider** and **Air/Oxygen** to get *more* **Liquid PTFE**. **(Cir 1)**
+Step 2b: You can also chemically react **Tetrafluoroethylene**, [Titanium Tetrachloride](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Titanium Tetrachloride) and **Air/Oxygen** to get *more* **Liquid PTFE**. **(Cir 1)**
 
-***Rutile Dust + Carbon Dust + Chlorine = Carbon Monoxide + Titanium Tetrachloride***
+***Rutile Dust + Carbon Dust + Chlorine = Carbon Monoxide + [Titanium Tetrachloride](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Titanium Tetrachloride)***
 
 ![ttc](PTFE_img/large_chemical_reactor_titanium_tetrachloride.png)
 
@@ -45,6 +29,18 @@ Step 3b: You can also chemically react **Tetrafluoroethylene**, **Titanium Tetra
 ***Use the Chemical Plant to make Polytetrafluoroethylene from Fluorine and Carbon Dust. <Luv>(Chem Plant LuV)</Luv>***
 
 ![cpptfe](PTFE_img/chemical_plant_ptfe.png)
+
+### Option 3 
+
+***Note that you can also make Tetrafluoroethylene wit Chloroform and Chlorine.***
+
+**Recipe for Chloroform**
+
+![cltfe](PTFE_img/large_chemical_reactor_chloroform.png)
+
+**Recipe for Tetrafluoroethylene from Chloroform and [Hydrofluoric Acid](/trulyno/StarT-docs/Gameplay/Lines/Chemical Lines/Random Useful Chemicals/Hydrofluoric Acid)**
+
+![cltfe2](PTFE_img/large_chemical_reactor_tetrafluoroethylene_from_chloroform.png)
 
 ## Uses of PTFE
 
